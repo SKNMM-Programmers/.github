@@ -2,4 +2,5 @@
 <h3 align="center">IT enthusiasts gathered around the Science Club of the Lodz University of Technology</h3>
 
 - 🔭 We are currently working on **ADAS project**
+  
 You can contact us at sknmm.programmers@outlook.com
